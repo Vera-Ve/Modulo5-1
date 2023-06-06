@@ -1,0 +1,18 @@
+.container {
+    max-width: 1140px; 
+    margin: 0 auto; 
+    
+    
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+   
+   margin: 30px;
+    
+}
+.info {
+    margin-top: 30px;
+    font-size: 18px;
+}
